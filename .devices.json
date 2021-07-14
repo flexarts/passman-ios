@@ -1,0 +1,2040 @@
+{
+  "devices" : {
+    "com.apple.CoreSimulator.SimRuntime.iOS-9-1" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/B1B11F42-B96E-4BF4-9F91-87C3B3C5AF59\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/B1B11F42-B96E-4BF4-9F91-87C3B3C5AF59",
+        "udid" : "B1B11F42-B96E-4BF4-9F91-87C3B3C5AF59",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-4s",
+        "state" : "Shutdown",
+        "name" : "iPhone 4s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/6FF6803B-4259-4684-A32F-87241F8EE81F\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/6FF6803B-4259-4684-A32F-87241F8EE81F",
+        "udid" : "6FF6803B-4259-4684-A32F-87241F8EE81F",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5",
+        "state" : "Shutdown",
+        "name" : "iPhone 5"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/4BDB043B-4F26-4981-9585-5DAAF86AEA6B\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/4BDB043B-4F26-4981-9585-5DAAF86AEA6B",
+        "udid" : "4BDB043B-4F26-4981-9585-5DAAF86AEA6B",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5s",
+        "state" : "Shutdown",
+        "name" : "iPhone 5s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/3E868F3C-D195-4512-B23A-0747D796C15E\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/3E868F3C-D195-4512-B23A-0747D796C15E",
+        "udid" : "3E868F3C-D195-4512-B23A-0747D796C15E",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/C9292C61-FDE8-41FC-8BE9-D89F2DD22818\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/C9292C61-FDE8-41FC-8BE9-D89F2DD22818",
+        "udid" : "C9292C61-FDE8-41FC-8BE9-D89F2DD22818",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6",
+        "state" : "Shutdown",
+        "name" : "iPhone 6"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/52A600DB-8357-4CCA-B042-74D8BFAF8CDB\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/52A600DB-8357-4CCA-B042-74D8BFAF8CDB",
+        "udid" : "52A600DB-8357-4CCA-B042-74D8BFAF8CDB",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/89A2A823-1928-4882-95BB-5224093695DE\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/89A2A823-1928-4882-95BB-5224093695DE",
+        "udid" : "89A2A823-1928-4882-95BB-5224093695DE",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/806D8F31-6208-4A6D-AF30-2DAEE3A484FB\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/806D8F31-6208-4A6D-AF30-2DAEE3A484FB",
+        "udid" : "806D8F31-6208-4A6D-AF30-2DAEE3A484FB",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-2",
+        "state" : "Shutdown",
+        "name" : "iPad 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/BD7EBDC7-6D15-4EF0-B05F-F1D8AC00DD49\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/BD7EBDC7-6D15-4EF0-B05F-F1D8AC00DD49",
+        "udid" : "BD7EBDC7-6D15-4EF0-B05F-F1D8AC00DD49",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Retina",
+        "state" : "Shutdown",
+        "name" : "iPad Retina"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/0F1C2418-0543-4A51-BDA4-736A77E15318\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/0F1C2418-0543-4A51-BDA4-736A77E15318",
+        "udid" : "0F1C2418-0543-4A51-BDA4-736A77E15318",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air",
+        "state" : "Shutdown",
+        "name" : "iPad Air"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/5DFF469A-06E1-4A8C-8715-7A946A57F226\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/5DFF469A-06E1-4A8C-8715-7A946A57F226",
+        "udid" : "5DFF469A-06E1-4A8C-8715-7A946A57F226",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2",
+        "state" : "Shutdown",
+        "name" : "iPad Air 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/4F7B613D-3C95-4C6A-B25D-1E626450F8E6\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/4F7B613D-3C95-4C6A-B25D-1E626450F8E6",
+        "udid" : "4F7B613D-3C95-4C6A-B25D-1E626450F8E6",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro",
+        "state" : "Shutdown",
+        "name" : "iPad Pro"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.iOS-9-3" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/903702A0-B6DD-41FB-A679-3E758F27002F\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/903702A0-B6DD-41FB-A679-3E758F27002F",
+        "udid" : "903702A0-B6DD-41FB-A679-3E758F27002F",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-4s",
+        "state" : "Shutdown",
+        "name" : "iPhone 4s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/25B02EBC-D48E-498C-9B2A-328F18F16468\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/25B02EBC-D48E-498C-9B2A-328F18F16468",
+        "udid" : "25B02EBC-D48E-498C-9B2A-328F18F16468",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5",
+        "state" : "Shutdown",
+        "name" : "iPhone 5"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/0C7C6815-9E8D-4A6B-B5F8-5FB6B28C0509\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/0C7C6815-9E8D-4A6B-B5F8-5FB6B28C0509",
+        "udid" : "0C7C6815-9E8D-4A6B-B5F8-5FB6B28C0509",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5s",
+        "state" : "Shutdown",
+        "name" : "iPhone 5s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/CD85ACE7-16A6-4928-B0DC-53A69767B74B\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/CD85ACE7-16A6-4928-B0DC-53A69767B74B",
+        "udid" : "CD85ACE7-16A6-4928-B0DC-53A69767B74B",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/A87BE50F-C677-4F1E-B517-35B4AA93B270\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/A87BE50F-C677-4F1E-B517-35B4AA93B270",
+        "udid" : "A87BE50F-C677-4F1E-B517-35B4AA93B270",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6",
+        "state" : "Shutdown",
+        "name" : "iPhone 6"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/97DBC6C5-7EE2-4952-BA08-2742EC6A2526\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/97DBC6C5-7EE2-4952-BA08-2742EC6A2526",
+        "udid" : "97DBC6C5-7EE2-4952-BA08-2742EC6A2526",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/23B8B659-DDE2-4107-974A-05C493C59FF3\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/23B8B659-DDE2-4107-974A-05C493C59FF3",
+        "udid" : "23B8B659-DDE2-4107-974A-05C493C59FF3",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/88913D21-1421-48B8-A95D-FEB58F4A7439\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/88913D21-1421-48B8-A95D-FEB58F4A7439",
+        "udid" : "88913D21-1421-48B8-A95D-FEB58F4A7439",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-2",
+        "state" : "Shutdown",
+        "name" : "iPad 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/D787DA51-54B4-4716-8509-9CB560B88319\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/D787DA51-54B4-4716-8509-9CB560B88319",
+        "udid" : "D787DA51-54B4-4716-8509-9CB560B88319",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Retina",
+        "state" : "Shutdown",
+        "name" : "iPad Retina"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/F70BF825-92DC-465C-9DF6-67DA79978A41\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/F70BF825-92DC-465C-9DF6-67DA79978A41",
+        "udid" : "F70BF825-92DC-465C-9DF6-67DA79978A41",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air",
+        "state" : "Shutdown",
+        "name" : "iPad Air"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/C7500758-3A37-483E-9F54-014E6892134E\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/C7500758-3A37-483E-9F54-014E6892134E",
+        "udid" : "C7500758-3A37-483E-9F54-014E6892134E",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2",
+        "state" : "Shutdown",
+        "name" : "iPad Air 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/8D641028-D346-4321-8977-68B649E62111\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/8D641028-D346-4321-8977-68B649E62111",
+        "udid" : "8D641028-D346-4321-8977-68B649E62111",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro",
+        "state" : "Shutdown",
+        "name" : "iPad Pro"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.iOS-8-0" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/204E2544-6501-4B96-AACF-AB2866615F4C\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/204E2544-6501-4B96-AACF-AB2866615F4C",
+        "udid" : "204E2544-6501-4B96-AACF-AB2866615F4C",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-4s",
+        "state" : "Shutdown",
+        "name" : "iPhone 4s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/05B19EBF-D14A-4923-8CBE-DF59E8589AB3\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/05B19EBF-D14A-4923-8CBE-DF59E8589AB3",
+        "udid" : "05B19EBF-D14A-4923-8CBE-DF59E8589AB3",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5",
+        "state" : "Shutdown",
+        "name" : "iPhone 5"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/B0ACC885-90AF-47AE-9445-9B8DF24879FA\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/B0ACC885-90AF-47AE-9445-9B8DF24879FA",
+        "udid" : "B0ACC885-90AF-47AE-9445-9B8DF24879FA",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5s",
+        "state" : "Shutdown",
+        "name" : "iPhone 5s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/90C9E6B8-A6FF-493B-884A-AFE9986D4FE8\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/90C9E6B8-A6FF-493B-884A-AFE9986D4FE8",
+        "udid" : "90C9E6B8-A6FF-493B-884A-AFE9986D4FE8",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/7F1D709B-C5FC-4E08-8850-61B0831DE8CF\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/7F1D709B-C5FC-4E08-8850-61B0831DE8CF",
+        "udid" : "7F1D709B-C5FC-4E08-8850-61B0831DE8CF",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6",
+        "state" : "Shutdown",
+        "name" : "iPhone 6"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/F546988C-C700-4834-B381-0AACFECBB808\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/F546988C-C700-4834-B381-0AACFECBB808",
+        "udid" : "F546988C-C700-4834-B381-0AACFECBB808",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-2",
+        "state" : "Shutdown",
+        "name" : "iPad 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/FD007BAD-7AB4-4C39-AEE0-BD3984F684F7\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/FD007BAD-7AB4-4C39-AEE0-BD3984F684F7",
+        "udid" : "FD007BAD-7AB4-4C39-AEE0-BD3984F684F7",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Retina",
+        "state" : "Shutdown",
+        "name" : "iPad Retina"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/DBD2AAFE-53F5-4933-A8E2-88B8F62DAE62\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/DBD2AAFE-53F5-4933-A8E2-88B8F62DAE62",
+        "udid" : "DBD2AAFE-53F5-4933-A8E2-88B8F62DAE62",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air",
+        "state" : "Shutdown",
+        "name" : "iPad Air"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/D7B579D0-D0A6-4AD3-BC83-12C675964FCA\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/D7B579D0-D0A6-4AD3-BC83-12C675964FCA",
+        "udid" : "D7B579D0-D0A6-4AD3-BC83-12C675964FCA",
+        "isAvailable" : false,
+        "state" : "Shutdown",
+        "name" : "Resizable iPad"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/D7B93ABA-EA08-4852-94A4-AEC072EFC278\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/D7B93ABA-EA08-4852-94A4-AEC072EFC278",
+        "udid" : "D7B93ABA-EA08-4852-94A4-AEC072EFC278",
+        "isAvailable" : false,
+        "state" : "Shutdown",
+        "name" : "Resizable iPhone"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.watchOS-2-2" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/1F000936-05C1-4CF7-86B6-CE6E0A5FC148\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/1F000936-05C1-4CF7-86B6-CE6E0A5FC148",
+        "udid" : "1F000936-05C1-4CF7-86B6-CE6E0A5FC148",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/D023415A-5E71-4630-A0E2-8FBAE71CB942\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/D023415A-5E71-4630-A0E2-8FBAE71CB942",
+        "udid" : "D023415A-5E71-4630-A0E2-8FBAE71CB942",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 42mm"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.watchOS-3-1" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/8191393B-CC02-4B9D-BB38-04F7F50ACEFE\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/8191393B-CC02-4B9D-BB38-04F7F50ACEFE",
+        "udid" : "8191393B-CC02-4B9D-BB38-04F7F50ACEFE",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/345033BF-19E6-426B-9B6A-C77A1A438790\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/345033BF-19E6-426B-9B6A-C77A1A438790",
+        "udid" : "345033BF-19E6-426B-9B6A-C77A1A438790",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 42mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/59E16452-AB6D-4DC9-81F8-CBB92D372AF6\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/59E16452-AB6D-4DC9-81F8-CBB92D372AF6",
+        "udid" : "59E16452-AB6D-4DC9-81F8-CBB92D372AF6",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 2 - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/39FC59F2-3903-48B3-9CAC-1510205509DB\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/39FC59F2-3903-48B3-9CAC-1510205509DB",
+        "udid" : "39FC59F2-3903-48B3-9CAC-1510205509DB",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 2 - 42mm"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.watchOS-4-3" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/68FC5B6B-6D1A-4338-99CE-FB8E59D380A9\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/68FC5B6B-6D1A-4338-99CE-FB8E59D380A9",
+        "udid" : "68FC5B6B-6D1A-4338-99CE-FB8E59D380A9",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/9B4352C3-70A8-477D-9D6A-DDB52CE0754B\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/9B4352C3-70A8-477D-9D6A-DDB52CE0754B",
+        "udid" : "9B4352C3-70A8-477D-9D6A-DDB52CE0754B",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 42mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/299B1E31-5833-4A17-8DDC-EF0E5F125702\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/299B1E31-5833-4A17-8DDC-EF0E5F125702",
+        "udid" : "299B1E31-5833-4A17-8DDC-EF0E5F125702",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 2 - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/30B932F3-367A-439F-A12F-602B6CE660AA\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/30B932F3-367A-439F-A12F-602B6CE660AA",
+        "udid" : "30B932F3-367A-439F-A12F-602B6CE660AA",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 2 - 42mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/FF7A108A-34E2-4346-AE4A-7DD2551C4EBB\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/FF7A108A-34E2-4346-AE4A-7DD2551C4EBB",
+        "udid" : "FF7A108A-34E2-4346-AE4A-7DD2551C4EBB",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 3 - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/81E4D8AA-6904-468A-A1C7-D442BFFE9D4C\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/81E4D8AA-6904-468A-A1C7-D442BFFE9D4C",
+        "udid" : "81E4D8AA-6904-468A-A1C7-D442BFFE9D4C",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 3 - 42mm"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.iOS-10-3" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/F27DA405-2606-476E-BACC-F7EC80F7449D\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/F27DA405-2606-476E-BACC-F7EC80F7449D",
+        "udid" : "F27DA405-2606-476E-BACC-F7EC80F7449D",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5",
+        "state" : "Shutdown",
+        "name" : "iPhone 5"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/7FA76E8F-D88D-4461-A08C-1E08C7417162\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/7FA76E8F-D88D-4461-A08C-1E08C7417162",
+        "udid" : "7FA76E8F-D88D-4461-A08C-1E08C7417162",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5s",
+        "state" : "Shutdown",
+        "name" : "iPhone 5s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/AC65324D-2056-4E05-B229-63F4058B5017\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/AC65324D-2056-4E05-B229-63F4058B5017",
+        "udid" : "AC65324D-2056-4E05-B229-63F4058B5017",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/4EA68297-42F1-4839-A7C5-9EC7FE286CDD\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/4EA68297-42F1-4839-A7C5-9EC7FE286CDD",
+        "udid" : "4EA68297-42F1-4839-A7C5-9EC7FE286CDD",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6",
+        "state" : "Shutdown",
+        "name" : "iPhone 6"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/BD6851F9-35B5-422C-A9C6-A72913D72657\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/BD6851F9-35B5-422C-A9C6-A72913D72657",
+        "udid" : "BD6851F9-35B5-422C-A9C6-A72913D72657",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/5D26E46C-66E7-4F36-8A5C-EB53B9B3ECFE\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/5D26E46C-66E7-4F36-8A5C-EB53B9B3ECFE",
+        "udid" : "5D26E46C-66E7-4F36-8A5C-EB53B9B3ECFE",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/72792B6A-8A0D-4C76-BDEF-04F824CB11EE\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/72792B6A-8A0D-4C76-BDEF-04F824CB11EE",
+        "udid" : "72792B6A-8A0D-4C76-BDEF-04F824CB11EE",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-SE",
+        "state" : "Shutdown",
+        "name" : "iPhone SE"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/18C2B557-D5CF-4592-A9FF-C2530C938BDA\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/18C2B557-D5CF-4592-A9FF-C2530C938BDA",
+        "udid" : "18C2B557-D5CF-4592-A9FF-C2530C938BDA",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-7",
+        "state" : "Shutdown",
+        "name" : "iPhone 7"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/BDE99D57-58D8-42A6-8B0C-59E92DFCC2D3\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/BDE99D57-58D8-42A6-8B0C-59E92DFCC2D3",
+        "udid" : "BDE99D57-58D8-42A6-8B0C-59E92DFCC2D3",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-7-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 7 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/FC6D4CE7-D37F-463D-8924-6B31C6E31E03\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/FC6D4CE7-D37F-463D-8924-6B31C6E31E03",
+        "udid" : "FC6D4CE7-D37F-463D-8924-6B31C6E31E03",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air",
+        "state" : "Shutdown",
+        "name" : "iPad Air"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/1767DA71-B8D0-4097-99C8-02C36271D12A\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/1767DA71-B8D0-4097-99C8-02C36271D12A",
+        "udid" : "1767DA71-B8D0-4097-99C8-02C36271D12A",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2",
+        "state" : "Shutdown",
+        "name" : "iPad Air 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/8E0E02ED-CB94-468D-B027-E015F0E1AE26\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/8E0E02ED-CB94-468D-B027-E015F0E1AE26",
+        "udid" : "8E0E02ED-CB94-468D-B027-E015F0E1AE26",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (9.7 inch)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/44CDAF25-90C7-4AD9-ACC1-F9BE529E99D3\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/44CDAF25-90C7-4AD9-ACC1-F9BE529E99D3",
+        "udid" : "44CDAF25-90C7-4AD9-ACC1-F9BE529E99D3",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (12.9 inch)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/99BD8C69-B077-4300-AC1B-3C90427CC677\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/99BD8C69-B077-4300-AC1B-3C90427CC677",
+        "udid" : "99BD8C69-B077-4300-AC1B-3C90427CC677",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad--5th-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad (5th generation)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/4F7B8E06-F27A-46F2-87C2-17B46941E02E\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/4F7B8E06-F27A-46F2-87C2-17B46941E02E",
+        "udid" : "4F7B8E06-F27A-46F2-87C2-17B46941E02E",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---2nd-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (12.9-inch) (2nd generation)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/9843F3C9-586A-436B-B207-00D4DAD14830\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/9843F3C9-586A-436B-B207-00D4DAD14830",
+        "udid" : "9843F3C9-586A-436B-B207-00D4DAD14830",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--10-5-inch-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (10.5-inch)"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.iOS-11-4" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/73578D50-6734-423F-8298-2F3872C78C75\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/73578D50-6734-423F-8298-2F3872C78C75",
+        "udid" : "73578D50-6734-423F-8298-2F3872C78C75",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5s",
+        "state" : "Shutdown",
+        "name" : "iPhone 5s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/8BB8119A-0B3F-41D8-83F1-0964ECECBFCA\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/8BB8119A-0B3F-41D8-83F1-0964ECECBFCA",
+        "udid" : "8BB8119A-0B3F-41D8-83F1-0964ECECBFCA",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/F4FEECCA-DA42-44D1-96ED-62AD119082E3\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/F4FEECCA-DA42-44D1-96ED-62AD119082E3",
+        "udid" : "F4FEECCA-DA42-44D1-96ED-62AD119082E3",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6",
+        "state" : "Shutdown",
+        "name" : "iPhone 6"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/18976CB9-CE5D-4E05-85C1-F1D8CB82C160\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/18976CB9-CE5D-4E05-85C1-F1D8CB82C160",
+        "udid" : "18976CB9-CE5D-4E05-85C1-F1D8CB82C160",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/A17BE7B0-0DEA-480C-82CD-6DDA5ACCC319\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/A17BE7B0-0DEA-480C-82CD-6DDA5ACCC319",
+        "udid" : "A17BE7B0-0DEA-480C-82CD-6DDA5ACCC319",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/37EDA68B-7E49-452C-A22F-5B0BF2F9FAEE\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/37EDA68B-7E49-452C-A22F-5B0BF2F9FAEE",
+        "udid" : "37EDA68B-7E49-452C-A22F-5B0BF2F9FAEE",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-SE",
+        "state" : "Shutdown",
+        "name" : "iPhone SE"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/F0B52447-0440-476E-8625-C8A454F660E6\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/F0B52447-0440-476E-8625-C8A454F660E6",
+        "udid" : "F0B52447-0440-476E-8625-C8A454F660E6",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-7",
+        "state" : "Shutdown",
+        "name" : "iPhone 7"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/844F1126-29EA-471D-8057-5C8EA158D365\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/844F1126-29EA-471D-8057-5C8EA158D365",
+        "udid" : "844F1126-29EA-471D-8057-5C8EA158D365",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-7-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 7 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/CED52581-0EB2-4746-8DBC-2A872A707D52\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/CED52581-0EB2-4746-8DBC-2A872A707D52",
+        "udid" : "CED52581-0EB2-4746-8DBC-2A872A707D52",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-8",
+        "state" : "Shutdown",
+        "name" : "iPhone 8"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/1DEA0D4D-9AD9-4D8A-8CCE-043AA17380EF\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/1DEA0D4D-9AD9-4D8A-8CCE-043AA17380EF",
+        "udid" : "1DEA0D4D-9AD9-4D8A-8CCE-043AA17380EF",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 8 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/5D11C985-D60A-4C30-9F07-65F0B94402C4\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/5D11C985-D60A-4C30-9F07-65F0B94402C4",
+        "udid" : "5D11C985-D60A-4C30-9F07-65F0B94402C4",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-X",
+        "state" : "Shutdown",
+        "name" : "iPhone X"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/6C54A680-F6D9-44DD-89D3-AB5D53F2B84B\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/6C54A680-F6D9-44DD-89D3-AB5D53F2B84B",
+        "udid" : "6C54A680-F6D9-44DD-89D3-AB5D53F2B84B",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air",
+        "state" : "Shutdown",
+        "name" : "iPad Air"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/33C74AA3-1372-4886-BC64-ECBA7009B6BE\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/33C74AA3-1372-4886-BC64-ECBA7009B6BE",
+        "udid" : "33C74AA3-1372-4886-BC64-ECBA7009B6BE",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2",
+        "state" : "Shutdown",
+        "name" : "iPad Air 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/9DFA3253-7417-4D88-BB70-D167105C6D09\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/9DFA3253-7417-4D88-BB70-D167105C6D09",
+        "udid" : "9DFA3253-7417-4D88-BB70-D167105C6D09",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (9.7-inch)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/242433A4-B87D-42EE-9738-9D8B6DBCDC06\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/242433A4-B87D-42EE-9738-9D8B6DBCDC06",
+        "udid" : "242433A4-B87D-42EE-9738-9D8B6DBCDC06",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (12.9-inch)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/84330BBF-F20A-423A-96A8-E66BF9D52688\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/84330BBF-F20A-423A-96A8-E66BF9D52688",
+        "udid" : "84330BBF-F20A-423A-96A8-E66BF9D52688",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad--5th-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad (5th generation)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/E9093B10-EE31-485F-AADF-77D36B39D0E0\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/E9093B10-EE31-485F-AADF-77D36B39D0E0",
+        "udid" : "E9093B10-EE31-485F-AADF-77D36B39D0E0",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---2nd-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (12.9-inch) (2nd generation)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/59B1410F-B382-46CC-9EFA-6703F002EC61\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/59B1410F-B382-46CC-9EFA-6703F002EC61",
+        "udid" : "59B1410F-B382-46CC-9EFA-6703F002EC61",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--10-5-inch-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (10.5-inch)"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.iOS-10-2" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/8FAE2C60-556C-4D84-888F-D7F94D1B3BF2\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/8FAE2C60-556C-4D84-888F-D7F94D1B3BF2",
+        "udid" : "8FAE2C60-556C-4D84-888F-D7F94D1B3BF2",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5",
+        "state" : "Shutdown",
+        "name" : "iPhone 5"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/68637E16-148A-4286-BADB-83501589068C\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/68637E16-148A-4286-BADB-83501589068C",
+        "udid" : "68637E16-148A-4286-BADB-83501589068C",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5s",
+        "state" : "Shutdown",
+        "name" : "iPhone 5s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/14E93354-8F04-4FB7-9AE3-9897504E95A8\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/14E93354-8F04-4FB7-9AE3-9897504E95A8",
+        "udid" : "14E93354-8F04-4FB7-9AE3-9897504E95A8",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/997CA1C0-CA77-4690-9E66-E72E01E031E8\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/997CA1C0-CA77-4690-9E66-E72E01E031E8",
+        "udid" : "997CA1C0-CA77-4690-9E66-E72E01E031E8",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6",
+        "state" : "Shutdown",
+        "name" : "iPhone 6"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/86835188-518B-4640-9695-41D9558DBEF5\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/86835188-518B-4640-9695-41D9558DBEF5",
+        "udid" : "86835188-518B-4640-9695-41D9558DBEF5",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/A47FF860-FD5A-4442-A934-D58B506417E6\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/A47FF860-FD5A-4442-A934-D58B506417E6",
+        "udid" : "A47FF860-FD5A-4442-A934-D58B506417E6",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/76CD9409-D498-432A-B91C-9F40441DCF66\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/76CD9409-D498-432A-B91C-9F40441DCF66",
+        "udid" : "76CD9409-D498-432A-B91C-9F40441DCF66",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-SE",
+        "state" : "Shutdown",
+        "name" : "iPhone SE"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/89E3BE7E-1D85-48EA-BBD5-7E3AB94B9211\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/89E3BE7E-1D85-48EA-BBD5-7E3AB94B9211",
+        "udid" : "89E3BE7E-1D85-48EA-BBD5-7E3AB94B9211",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-7",
+        "state" : "Shutdown",
+        "name" : "iPhone 7"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/24FFF110-38BE-489C-9AA0-7ADA857C26EB\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/24FFF110-38BE-489C-9AA0-7ADA857C26EB",
+        "udid" : "24FFF110-38BE-489C-9AA0-7ADA857C26EB",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-7-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 7 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/7C97A320-6919-479D-922C-2014CD669B80\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/7C97A320-6919-479D-922C-2014CD669B80",
+        "udid" : "7C97A320-6919-479D-922C-2014CD669B80",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Retina",
+        "state" : "Shutdown",
+        "name" : "iPad Retina"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/150B1C9F-CF21-4C1A-9527-9B5DB14002C5\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/150B1C9F-CF21-4C1A-9527-9B5DB14002C5",
+        "udid" : "150B1C9F-CF21-4C1A-9527-9B5DB14002C5",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air",
+        "state" : "Shutdown",
+        "name" : "iPad Air"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/068453C4-B51A-48C3-B535-A8008069E29F\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/068453C4-B51A-48C3-B535-A8008069E29F",
+        "udid" : "068453C4-B51A-48C3-B535-A8008069E29F",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2",
+        "state" : "Shutdown",
+        "name" : "iPad Air 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/F5A287F3-FE2C-45FD-9109-5EBCCFAE112E\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/F5A287F3-FE2C-45FD-9109-5EBCCFAE112E",
+        "udid" : "F5A287F3-FE2C-45FD-9109-5EBCCFAE112E",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (9.7 inch)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/7B736F2D-90C9-4510-A7EB-2ED3100535E5\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/7B736F2D-90C9-4510-A7EB-2ED3100535E5",
+        "udid" : "7B736F2D-90C9-4510-A7EB-2ED3100535E5",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (12.9 inch)"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.iOS-11-2" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/C43273CC-BE03-46A8-81BE-80EC7B958575\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/C43273CC-BE03-46A8-81BE-80EC7B958575",
+        "udid" : "C43273CC-BE03-46A8-81BE-80EC7B958575",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5s",
+        "state" : "Shutdown",
+        "name" : "iPhone 5s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/007D1332-1151-41BF-87DF-2C4EE6373A59\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/007D1332-1151-41BF-87DF-2C4EE6373A59",
+        "udid" : "007D1332-1151-41BF-87DF-2C4EE6373A59",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/7767EA5B-EC6F-4C27-B825-A4AC583D7F38\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/7767EA5B-EC6F-4C27-B825-A4AC583D7F38",
+        "udid" : "7767EA5B-EC6F-4C27-B825-A4AC583D7F38",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6",
+        "state" : "Shutdown",
+        "name" : "iPhone 6"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/834504EA-90C5-4CA6-AF6E-D200EF70C455\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/834504EA-90C5-4CA6-AF6E-D200EF70C455",
+        "udid" : "834504EA-90C5-4CA6-AF6E-D200EF70C455",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/F6291D5C-E1F8-4BEA-880D-C1EA906095DB\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/F6291D5C-E1F8-4BEA-880D-C1EA906095DB",
+        "udid" : "F6291D5C-E1F8-4BEA-880D-C1EA906095DB",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/97BBFC80-9638-4DF2-B709-FECFAFC1A770\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/97BBFC80-9638-4DF2-B709-FECFAFC1A770",
+        "udid" : "97BBFC80-9638-4DF2-B709-FECFAFC1A770",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-SE",
+        "state" : "Shutdown",
+        "name" : "iPhone SE"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/BE8F8D9C-739D-4B8B-9968-F69D109D4597\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/BE8F8D9C-739D-4B8B-9968-F69D109D4597",
+        "udid" : "BE8F8D9C-739D-4B8B-9968-F69D109D4597",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-7",
+        "state" : "Shutdown",
+        "name" : "iPhone 7"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/875503F4-8805-4285-88FD-75DD646969F4\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/875503F4-8805-4285-88FD-75DD646969F4",
+        "udid" : "875503F4-8805-4285-88FD-75DD646969F4",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-7-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 7 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/A12EF777-AAB0-4824-A700-36FE8A7B5174\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/A12EF777-AAB0-4824-A700-36FE8A7B5174",
+        "udid" : "A12EF777-AAB0-4824-A700-36FE8A7B5174",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-8",
+        "state" : "Shutdown",
+        "name" : "iPhone 8"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/D0E25004-CDF7-4D78-8F5F-5FFDD416E945\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/D0E25004-CDF7-4D78-8F5F-5FFDD416E945",
+        "udid" : "D0E25004-CDF7-4D78-8F5F-5FFDD416E945",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 8 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/F1D12B14-8B6A-4569-AC5D-07113D32CF06\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/F1D12B14-8B6A-4569-AC5D-07113D32CF06",
+        "udid" : "F1D12B14-8B6A-4569-AC5D-07113D32CF06",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-X",
+        "state" : "Shutdown",
+        "name" : "iPhone X"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/3B59C91D-6B00-4B15-BFD9-98A452810C8B\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/3B59C91D-6B00-4B15-BFD9-98A452810C8B",
+        "udid" : "3B59C91D-6B00-4B15-BFD9-98A452810C8B",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air",
+        "state" : "Shutdown",
+        "name" : "iPad Air"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/20DF7C14-9FBD-4952-B119-FBEA2A073AE3\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/20DF7C14-9FBD-4952-B119-FBEA2A073AE3",
+        "udid" : "20DF7C14-9FBD-4952-B119-FBEA2A073AE3",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2",
+        "state" : "Shutdown",
+        "name" : "iPad Air 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/AC8E14B2-9BC1-4FB8-B7F4-FAB4177BD69C\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/AC8E14B2-9BC1-4FB8-B7F4-FAB4177BD69C",
+        "udid" : "AC8E14B2-9BC1-4FB8-B7F4-FAB4177BD69C",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (9.7-inch)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/D6EE5D8E-39DC-4B2B-9960-004CFE0C5846\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/D6EE5D8E-39DC-4B2B-9960-004CFE0C5846",
+        "udid" : "D6EE5D8E-39DC-4B2B-9960-004CFE0C5846",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (12.9-inch)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/8BCE82CB-03C1-4188-8490-8AEDBE1C5EA0\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/8BCE82CB-03C1-4188-8490-8AEDBE1C5EA0",
+        "udid" : "8BCE82CB-03C1-4188-8490-8AEDBE1C5EA0",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad--5th-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad (5th generation)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/6AC10DF5-54E8-46A8-9B54-540615EADBDA\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/6AC10DF5-54E8-46A8-9B54-540615EADBDA",
+        "udid" : "6AC10DF5-54E8-46A8-9B54-540615EADBDA",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---2nd-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (12.9-inch) (2nd generation)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/C91222C7-75FF-4CA7-AC1A-0ED7C9855940\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/C91222C7-75FF-4CA7-AC1A-0ED7C9855940",
+        "udid" : "C91222C7-75FF-4CA7-AC1A-0ED7C9855940",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--10-5-inch-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (10.5-inch)"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.iOS-13-6" : [
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/BB869462-4CB2-4FBE-8BF1-0DB2A36DDD4D\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/BB869462-4CB2-4FBE-8BF1-0DB2A36DDD4D",
+        "udid" : "BB869462-4CB2-4FBE-8BF1-0DB2A36DDD4D",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-8",
+        "state" : "Shutdown",
+        "name" : "iPhone 8"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/4570DA59-5180-4D15-9191-6C61C539D6DA\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/4570DA59-5180-4D15-9191-6C61C539D6DA",
+        "udid" : "4570DA59-5180-4D15-9191-6C61C539D6DA",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 8 Plus"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/52136940-6C4C-4765-82C5-B61638F79BCC\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/52136940-6C4C-4765-82C5-B61638F79BCC",
+        "udid" : "52136940-6C4C-4765-82C5-B61638F79BCC",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-11",
+        "state" : "Shutdown",
+        "name" : "iPhone 11"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/E523CDB4-9598-4723-A4DC-77F5270C7A88\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/E523CDB4-9598-4723-A4DC-77F5270C7A88",
+        "udid" : "E523CDB4-9598-4723-A4DC-77F5270C7A88",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-11-Pro",
+        "state" : "Shutdown",
+        "name" : "iPhone 11 Pro"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/5CB20E2E-94B0-4C7E-BCD8-F25F157DCFFF\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/5CB20E2E-94B0-4C7E-BCD8-F25F157DCFFF",
+        "udid" : "5CB20E2E-94B0-4C7E-BCD8-F25F157DCFFF",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-11-Pro-Max",
+        "state" : "Shutdown",
+        "name" : "iPhone 11 Pro Max"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/DF3FF403-907F-48EE-AA47-F5678082A945\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/DF3FF403-907F-48EE-AA47-F5678082A945",
+        "udid" : "DF3FF403-907F-48EE-AA47-F5678082A945",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-SE--2nd-generation-",
+        "state" : "Shutdown",
+        "name" : "iPhone SE (2nd generation)"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/FF1BC909-E552-42C8-B727-56776083641E\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/FF1BC909-E552-42C8-B727-56776083641E",
+        "udid" : "FF1BC909-E552-42C8-B727-56776083641E",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (9.7-inch)"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/CE92FF1D-9756-45F7-947A-3C9CD071BF8A\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/CE92FF1D-9756-45F7-947A-3C9CD071BF8A",
+        "udid" : "CE92FF1D-9756-45F7-947A-3C9CD071BF8A",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad--7th-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad (7th generation)"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/0C5F4637-D010-4B4C-81C2-89F2B6B25F42\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/0C5F4637-D010-4B4C-81C2-89F2B6B25F42",
+        "udid" : "0C5F4637-D010-4B4C-81C2-89F2B6B25F42",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--11-inch---2nd-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (11-inch) (2nd generation)"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/05779B80-F089-493B-8536-AB1B1ECBD506\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/05779B80-F089-493B-8536-AB1B1ECBD506",
+        "udid" : "05779B80-F089-493B-8536-AB1B1ECBD506",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---4th-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (12.9-inch) (4th generation)"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/3F7CB474-82BA-4D8C-AA85-0400134AB1F3\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/3F7CB474-82BA-4D8C-AA85-0400134AB1F3",
+        "udid" : "3F7CB474-82BA-4D8C-AA85-0400134AB1F3",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air--3rd-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad Air (3rd generation)"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.iOS-12-1" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/71B0871D-79FC-4617-81F7-2CC29713D5C3\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/71B0871D-79FC-4617-81F7-2CC29713D5C3",
+        "udid" : "71B0871D-79FC-4617-81F7-2CC29713D5C3",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5s",
+        "state" : "Shutdown",
+        "name" : "iPhone 5s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/2FB43F2A-E366-4B57-9A3B-FF60F5BA159E\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/2FB43F2A-E366-4B57-9A3B-FF60F5BA159E",
+        "udid" : "2FB43F2A-E366-4B57-9A3B-FF60F5BA159E",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/81AEF0AB-5D77-4958-84FD-19B06793FC45\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/81AEF0AB-5D77-4958-84FD-19B06793FC45",
+        "udid" : "81AEF0AB-5D77-4958-84FD-19B06793FC45",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6",
+        "state" : "Shutdown",
+        "name" : "iPhone 6"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/043BABEC-AF9D-4CF0-87E2-B5B4B1541FD0\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/043BABEC-AF9D-4CF0-87E2-B5B4B1541FD0",
+        "udid" : "043BABEC-AF9D-4CF0-87E2-B5B4B1541FD0",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/AA722009-B0F9-4145-A77B-95E59D88F309\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/AA722009-B0F9-4145-A77B-95E59D88F309",
+        "udid" : "AA722009-B0F9-4145-A77B-95E59D88F309",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/D906461A-A53B-42AC-BEFA-86FC76C7927A\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/D906461A-A53B-42AC-BEFA-86FC76C7927A",
+        "udid" : "D906461A-A53B-42AC-BEFA-86FC76C7927A",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-SE",
+        "state" : "Shutdown",
+        "name" : "iPhone SE"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/A953A156-3A8D-4B66-948C-DCF201A81ED6\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/A953A156-3A8D-4B66-948C-DCF201A81ED6",
+        "udid" : "A953A156-3A8D-4B66-948C-DCF201A81ED6",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-7",
+        "state" : "Shutdown",
+        "name" : "iPhone 7"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/B1E293F4-9A29-4085-BCD1-2E1123FE185D\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/B1E293F4-9A29-4085-BCD1-2E1123FE185D",
+        "udid" : "B1E293F4-9A29-4085-BCD1-2E1123FE185D",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-7-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 7 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/56ADF8B7-AFA5-411C-90D3-1DFB4FDBDAED\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/56ADF8B7-AFA5-411C-90D3-1DFB4FDBDAED",
+        "udid" : "56ADF8B7-AFA5-411C-90D3-1DFB4FDBDAED",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-8",
+        "state" : "Shutdown",
+        "name" : "iPhone 8"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/CA0CDF71-092F-4F02-A986-E425E3A4E8D6\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/CA0CDF71-092F-4F02-A986-E425E3A4E8D6",
+        "udid" : "CA0CDF71-092F-4F02-A986-E425E3A4E8D6",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 8 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/B7008863-63AE-47B1-8C21-81EFA48EE517\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/B7008863-63AE-47B1-8C21-81EFA48EE517",
+        "udid" : "B7008863-63AE-47B1-8C21-81EFA48EE517",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-X",
+        "state" : "Shutdown",
+        "name" : "iPhone X"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/8BBCAAD6-06EC-4B3B-9519-8F885C184A55\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/8BBCAAD6-06EC-4B3B-9519-8F885C184A55",
+        "udid" : "8BBCAAD6-06EC-4B3B-9519-8F885C184A55",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-XS",
+        "state" : "Shutdown",
+        "name" : "iPhone XS"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/07AD991F-48A2-4CE4-A946-F521B87AEE70\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/07AD991F-48A2-4CE4-A946-F521B87AEE70",
+        "udid" : "07AD991F-48A2-4CE4-A946-F521B87AEE70",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-XS-Max",
+        "state" : "Shutdown",
+        "name" : "iPhone XS Max"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/DBA96700-2679-40E2-A346-E935C393A9B6\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/DBA96700-2679-40E2-A346-E935C393A9B6",
+        "udid" : "DBA96700-2679-40E2-A346-E935C393A9B6",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-XR",
+        "state" : "Shutdown",
+        "name" : "iPhone XR"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/A3742F78-AE55-43D3-A75B-078FBAA4FC49\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/A3742F78-AE55-43D3-A75B-078FBAA4FC49",
+        "udid" : "A3742F78-AE55-43D3-A75B-078FBAA4FC49",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air",
+        "state" : "Shutdown",
+        "name" : "iPad Air"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/CC528A34-8B9C-43D4-942C-A0D9058F0B1C\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/CC528A34-8B9C-43D4-942C-A0D9058F0B1C",
+        "udid" : "CC528A34-8B9C-43D4-942C-A0D9058F0B1C",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2",
+        "state" : "Shutdown",
+        "name" : "iPad Air 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/FCA058E6-A93A-4EDE-B474-6FEFE7FB7CAF\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/FCA058E6-A93A-4EDE-B474-6FEFE7FB7CAF",
+        "udid" : "FCA058E6-A93A-4EDE-B474-6FEFE7FB7CAF",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (9.7-inch)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/2890D3DB-B6A2-4B96-B8C4-D890903D1613\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/2890D3DB-B6A2-4B96-B8C4-D890903D1613",
+        "udid" : "2890D3DB-B6A2-4B96-B8C4-D890903D1613",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (12.9-inch)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/48A6A23B-5AEE-4B63-8046-221982DD6746\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/48A6A23B-5AEE-4B63-8046-221982DD6746",
+        "udid" : "48A6A23B-5AEE-4B63-8046-221982DD6746",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad--5th-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad (5th generation)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/9DEBA40F-705A-4FF8-8B26-581AA5A9A00A\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/9DEBA40F-705A-4FF8-8B26-581AA5A9A00A",
+        "udid" : "9DEBA40F-705A-4FF8-8B26-581AA5A9A00A",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---2nd-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (12.9-inch) (2nd generation)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/47ECE1DD-6685-4D61-A07A-2DD691F05E19\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/47ECE1DD-6685-4D61-A07A-2DD691F05E19",
+        "udid" : "47ECE1DD-6685-4D61-A07A-2DD691F05E19",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--10-5-inch-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (10.5-inch)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/0872548B-B4B4-45F6-BBA2-B3A9055E045D\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/0872548B-B4B4-45F6-BBA2-B3A9055E045D",
+        "udid" : "0872548B-B4B4-45F6-BBA2-B3A9055E045D",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad--6th-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad (6th generation)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/FE84683D-34C3-48C4-A2EC-199DA35ECFA0\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/FE84683D-34C3-48C4-A2EC-199DA35ECFA0",
+        "udid" : "FE84683D-34C3-48C4-A2EC-199DA35ECFA0",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--11-inch-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (11-inch)"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/97107F59-CDF5-47C6-AE4D-726F2F451B98\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/97107F59-CDF5-47C6-AE4D-726F2F451B98",
+        "udid" : "97107F59-CDF5-47C6-AE4D-726F2F451B98",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---3rd-generation-",
+        "state" : "Shutdown",
+        "name" : "iPad Pro (12.9-inch) (3rd generation)"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.watchOS-2-1" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/40FFBD84-04A6-4DD9-879C-44240C1BF167\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/40FFBD84-04A6-4DD9-879C-44240C1BF167",
+        "udid" : "40FFBD84-04A6-4DD9-879C-44240C1BF167",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/51FE303A-99A0-4405-B93B-5319F99ECA20\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/51FE303A-99A0-4405-B93B-5319F99ECA20",
+        "udid" : "51FE303A-99A0-4405-B93B-5319F99ECA20",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 42mm"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.watchOS-4-2" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/6E86C4EA-FE0B-4410-BD81-41E9FF11B452\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/6E86C4EA-FE0B-4410-BD81-41E9FF11B452",
+        "udid" : "6E86C4EA-FE0B-4410-BD81-41E9FF11B452",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/B70768CC-8C47-4D5C-856B-7A6C7AC90CC9\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/B70768CC-8C47-4D5C-856B-7A6C7AC90CC9",
+        "udid" : "B70768CC-8C47-4D5C-856B-7A6C7AC90CC9",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 42mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/870F3511-E360-4844-BF5D-08458544939C\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/870F3511-E360-4844-BF5D-08458544939C",
+        "udid" : "870F3511-E360-4844-BF5D-08458544939C",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 2 - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/0A38C9D8-8603-40E6-91B8-E7F84F780F19\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/0A38C9D8-8603-40E6-91B8-E7F84F780F19",
+        "udid" : "0A38C9D8-8603-40E6-91B8-E7F84F780F19",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 2 - 42mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/DECC1A25-B1EA-4229-8447-6BFA659FD3C6\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/DECC1A25-B1EA-4229-8447-6BFA659FD3C6",
+        "udid" : "DECC1A25-B1EA-4229-8447-6BFA659FD3C6",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 3 - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/A9D15A52-150B-49E6-BF05-75E888B2CC8C\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/A9D15A52-150B-49E6-BF05-75E888B2CC8C",
+        "udid" : "A9D15A52-150B-49E6-BF05-75E888B2CC8C",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 3 - 42mm"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.tvOS-11-4" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/F10759D4-DE80-464F-81A0-20B333700D29\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/F10759D4-DE80-464F-81A0-20B333700D29",
+        "udid" : "F10759D4-DE80-464F-81A0-20B333700D29",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/ACF8F508-5A73-4EF6-A888-4221C38C84EE\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/ACF8F508-5A73-4EF6-A888-4221C38C84EE",
+        "udid" : "ACF8F508-5A73-4EF6-A888-4221C38C84EE",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-4K",
+        "state" : "Shutdown",
+        "name" : "Apple TV 4K"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/748ABAC2-0538-4FEA-BAB8-F09A9B3673BC\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/748ABAC2-0538-4FEA-BAB8-F09A9B3673BC",
+        "udid" : "748ABAC2-0538-4FEA-BAB8-F09A9B3673BC",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV 4K (at 1080p)"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.tvOS-10-2" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/B47DCBD5-C282-4BEF-8479-1C68193B596F\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/B47DCBD5-C282-4BEF-8479-1C68193B596F",
+        "udid" : "B47DCBD5-C282-4BEF-8479-1C68193B596F",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV 1080p"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.watchOS-5-1" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/BAA5E52E-D901-4A1B-8E7E-999DC8443FA5\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/BAA5E52E-D901-4A1B-8E7E-999DC8443FA5",
+        "udid" : "BAA5E52E-D901-4A1B-8E7E-999DC8443FA5",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 2 - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/A0692ED0-9426-4021-B49B-B57B05FD33A3\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/A0692ED0-9426-4021-B49B-B57B05FD33A3",
+        "udid" : "A0692ED0-9426-4021-B49B-B57B05FD33A3",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 2 - 42mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/7E96A0FE-50CD-475E-AC57-D8E28FBCF38F\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/7E96A0FE-50CD-475E-AC57-D8E28FBCF38F",
+        "udid" : "7E96A0FE-50CD-475E-AC57-D8E28FBCF38F",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 3 - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/295B4BD4-3BDE-4274-A45A-F7A633D98DE0\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/295B4BD4-3BDE-4274-A45A-F7A633D98DE0",
+        "udid" : "295B4BD4-3BDE-4274-A45A-F7A633D98DE0",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 3 - 42mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/707D9FDF-0E30-4F57-A238-D4EAF7794722\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/707D9FDF-0E30-4F57-A238-D4EAF7794722",
+        "udid" : "707D9FDF-0E30-4F57-A238-D4EAF7794722",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-4-40mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 4 - 40mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/01F3FCA0-AC3C-4DD7-A468-13F3EA382883\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/01F3FCA0-AC3C-4DD7-A468-13F3EA382883",
+        "udid" : "01F3FCA0-AC3C-4DD7-A468-13F3EA382883",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-4-44mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 4 - 44mm"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.tvOS-10-1" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/E7490E4E-CBB9-47FA-8695-40FBBFB39BEA\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/E7490E4E-CBB9-47FA-8695-40FBBFB39BEA",
+        "udid" : "E7490E4E-CBB9-47FA-8695-40FBBFB39BEA",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV 1080p"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.tvOS-11-2" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/A7DB5708-1044-47F0-8B77-6C2733850C5C\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/A7DB5708-1044-47F0-8B77-6C2733850C5C",
+        "udid" : "A7DB5708-1044-47F0-8B77-6C2733850C5C",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/CBAD798B-BA8C-42C0-9819-9EAF13314378\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/CBAD798B-BA8C-42C0-9819-9EAF13314378",
+        "udid" : "CBAD798B-BA8C-42C0-9819-9EAF13314378",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-4K",
+        "state" : "Shutdown",
+        "name" : "Apple TV 4K"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/0AF62FC9-E951-4CFB-8C38-25169B9D0E10\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/0AF62FC9-E951-4CFB-8C38-25169B9D0E10",
+        "udid" : "0AF62FC9-E951-4CFB-8C38-25169B9D0E10",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV 4K (at 1080p)"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.watchOS-2-0" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/836F3555-4803-416F-9083-F2A894B5A078\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/836F3555-4803-416F-9083-F2A894B5A078",
+        "udid" : "836F3555-4803-416F-9083-F2A894B5A078",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/3F25E88D-14E9-4AA2-ACB0-A6251DC17B9E\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/3F25E88D-14E9-4AA2-ACB0-A6251DC17B9E",
+        "udid" : "3F25E88D-14E9-4AA2-ACB0-A6251DC17B9E",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 42mm"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.watchOS-3-2" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/039B0AC7-AFCF-470A-BF3A-2D2808E7EA78\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/039B0AC7-AFCF-470A-BF3A-2D2808E7EA78",
+        "udid" : "039B0AC7-AFCF-470A-BF3A-2D2808E7EA78",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/84E39EC9-62C7-47C6-B51D-72F652510AC9\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/84E39EC9-62C7-47C6-B51D-72F652510AC9",
+        "udid" : "84E39EC9-62C7-47C6-B51D-72F652510AC9",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch - 42mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/6BC82682-2286-4AE3-A4BF-D5B3C37C46CF\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/6BC82682-2286-4AE3-A4BF-D5B3C37C46CF",
+        "udid" : "6BC82682-2286-4AE3-A4BF-D5B3C37C46CF",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-38mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 2 - 38mm"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/D049D793-E043-4B6E-8272-FF5DFE500502\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/D049D793-E043-4B6E-8272-FF5DFE500502",
+        "udid" : "D049D793-E043-4B6E-8272-FF5DFE500502",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-42mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 2 - 42mm"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.tvOS-9-2" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/5B45D1FF-D937-4D7D-B516-6CF9AAE3F246\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/5B45D1FF-D937-4D7D-B516-6CF9AAE3F246",
+        "udid" : "5B45D1FF-D937-4D7D-B516-6CF9AAE3F246",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV 1080p"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.tvOS-9-1" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/E65B3700-308C-4E99-93B5-4FA479847F33\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/E65B3700-308C-4E99-93B5-4FA479847F33",
+        "udid" : "E65B3700-308C-4E99-93B5-4FA479847F33",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV 1080p"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.tvOS-13-4" : [
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/0E08E483-9B79-41D4-8796-22E1774A3E9C\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/0E08E483-9B79-41D4-8796-22E1774A3E9C",
+        "udid" : "0E08E483-9B79-41D4-8796-22E1774A3E9C",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/889C1E47-66F7-494F-A48F-CFE50EDEAD82\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/889C1E47-66F7-494F-A48F-CFE50EDEAD82",
+        "udid" : "889C1E47-66F7-494F-A48F-CFE50EDEAD82",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-4K",
+        "state" : "Shutdown",
+        "name" : "Apple TV 4K"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/FD821D60-4742-472E-869D-2A6262CF4E95\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/FD821D60-4742-472E-869D-2A6262CF4E95",
+        "udid" : "FD821D60-4742-472E-869D-2A6262CF4E95",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV 4K (at 1080p)"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.tvOS-9-0" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/3BF3C8CD-FE22-4778-9FE3-4DCADFDC03A2\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/3BF3C8CD-FE22-4778-9FE3-4DCADFDC03A2",
+        "udid" : "3BF3C8CD-FE22-4778-9FE3-4DCADFDC03A2",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV 1080p"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.tvOS-12-1" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/F8769FF5-0DF0-4532-9814-F4FE5ED7CEA6\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/F8769FF5-0DF0-4532-9814-F4FE5ED7CEA6",
+        "udid" : "F8769FF5-0DF0-4532-9814-F4FE5ED7CEA6",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/1B92E278-7F37-43E0-8F67-014DA3CD3D6F\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/1B92E278-7F37-43E0-8F67-014DA3CD3D6F",
+        "udid" : "1B92E278-7F37-43E0-8F67-014DA3CD3D6F",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-4K",
+        "state" : "Shutdown",
+        "name" : "Apple TV 4K"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/BD02588D-B7DB-45C7-8619-94ACD51C48F8\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/BD02588D-B7DB-45C7-8619-94ACD51C48F8",
+        "udid" : "BD02588D-B7DB-45C7-8619-94ACD51C48F8",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-1080p",
+        "state" : "Shutdown",
+        "name" : "Apple TV 4K (at 1080p)"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.watchOS-6-2" : [
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/A8C14CFE-5777-4DD2-B663-1265BB303A07\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/A8C14CFE-5777-4DD2-B663-1265BB303A07",
+        "udid" : "A8C14CFE-5777-4DD2-B663-1265BB303A07",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-4-40mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 4 - 40mm"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/1D16A137-7808-4C36-8A11-C49C36A77F80\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/1D16A137-7808-4C36-8A11-C49C36A77F80",
+        "udid" : "1D16A137-7808-4C36-8A11-C49C36A77F80",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-4-44mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 4 - 44mm"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/DA9F016A-47B8-453A-9B6F-2F47333DC3F6\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/DA9F016A-47B8-453A-9B6F-2F47333DC3F6",
+        "udid" : "DA9F016A-47B8-453A-9B6F-2F47333DC3F6",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-5-40mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 5 - 40mm"
+      },
+      {
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/6F3E02DE-B78C-49BF-AF71-6645AF9FBE24\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/6F3E02DE-B78C-49BF-AF71-6645AF9FBE24",
+        "udid" : "6F3E02DE-B78C-49BF-AF71-6645AF9FBE24",
+        "isAvailable" : true,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-5-44mm",
+        "state" : "Shutdown",
+        "name" : "Apple Watch Series 5 - 44mm"
+      }
+    ],
+    "com.apple.CoreSimulator.SimRuntime.iOS-9-2" : [
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/B154C8F1-AEC7-4F95-8DDD-FA19A0474B71\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/B154C8F1-AEC7-4F95-8DDD-FA19A0474B71",
+        "udid" : "B154C8F1-AEC7-4F95-8DDD-FA19A0474B71",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-4s",
+        "state" : "Shutdown",
+        "name" : "iPhone 4s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/F21227B2-8C7B-492E-82DC-033281AC6A3E\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/F21227B2-8C7B-492E-82DC-033281AC6A3E",
+        "udid" : "F21227B2-8C7B-492E-82DC-033281AC6A3E",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5",
+        "state" : "Shutdown",
+        "name" : "iPhone 5"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/D1727921-29E5-44F7-B1CE-B9A95F2CCED6\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/D1727921-29E5-44F7-B1CE-B9A95F2CCED6",
+        "udid" : "D1727921-29E5-44F7-B1CE-B9A95F2CCED6",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-5s",
+        "state" : "Shutdown",
+        "name" : "iPhone 5s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/2042ED03-AD77-4113-8D08-0000A9F856EF\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/2042ED03-AD77-4113-8D08-0000A9F856EF",
+        "udid" : "2042ED03-AD77-4113-8D08-0000A9F856EF",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6 Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/0FA30574-B723-4966-A48E-D3E4B60109C0\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/0FA30574-B723-4966-A48E-D3E4B60109C0",
+        "udid" : "0FA30574-B723-4966-A48E-D3E4B60109C0",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6",
+        "state" : "Shutdown",
+        "name" : "iPhone 6"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/34B99B1C-D001-4A98-B8F7-B93FAF6B993D\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/34B99B1C-D001-4A98-B8F7-B93FAF6B993D",
+        "udid" : "34B99B1C-D001-4A98-B8F7-B93FAF6B993D",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/46C0474A-7429-4CD0-9581-EFE6E671DC59\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/46C0474A-7429-4CD0-9581-EFE6E671DC59",
+        "udid" : "46C0474A-7429-4CD0-9581-EFE6E671DC59",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus",
+        "state" : "Shutdown",
+        "name" : "iPhone 6s Plus"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/25CCE456-79BA-409B-9CE0-1BAFF9B4E0BB\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/25CCE456-79BA-409B-9CE0-1BAFF9B4E0BB",
+        "udid" : "25CCE456-79BA-409B-9CE0-1BAFF9B4E0BB",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-2",
+        "state" : "Shutdown",
+        "name" : "iPad 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/64233403-C85D-455D-BAB3-77E6ED54C439\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/64233403-C85D-455D-BAB3-77E6ED54C439",
+        "udid" : "64233403-C85D-455D-BAB3-77E6ED54C439",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Retina",
+        "state" : "Shutdown",
+        "name" : "iPad Retina"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/CBA9B417-A566-417B-8DDA-5E214645FD45\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/CBA9B417-A566-417B-8DDA-5E214645FD45",
+        "udid" : "CBA9B417-A566-417B-8DDA-5E214645FD45",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air",
+        "state" : "Shutdown",
+        "name" : "iPad Air"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/40F139D1-0927-4659-8027-804840A76887\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/40F139D1-0927-4659-8027-804840A76887",
+        "udid" : "40F139D1-0927-4659-8027-804840A76887",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2",
+        "state" : "Shutdown",
+        "name" : "iPad Air 2"
+      },
+      {
+        "availabilityError" : "runtime profile not found",
+        "dataPath" : "\/Users\/hdtv\/Library\/Developer\/CoreSimulator\/Devices\/C4F3CCFA-783B-4E94-8D44-0E65398665F8\/data",
+        "logPath" : "\/Users\/hdtv\/Library\/Logs\/CoreSimulator\/C4F3CCFA-783B-4E94-8D44-0E65398665F8",
+        "udid" : "C4F3CCFA-783B-4E94-8D44-0E65398665F8",
+        "isAvailable" : false,
+        "deviceTypeIdentifier" : "com.apple.CoreSimulator.SimDeviceType.iPad-Pro",
+        "state" : "Shutdown",
+        "name" : "iPad Pro"
+      }
+    ]
+  }
+}
