@@ -1,7 +1,7 @@
 import { createBottomTabNavigator, createStackNavigator } from 'react-navigation';
 import {Text} from 'react-native';
 import React from 'react';
-import FontAwesome, { Icons } from 'react-native-fontawesome';
+import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import DefaultColors from './DefaultColors';
 import SettingsScreen from './screens/SettingsScreen';
 import VaultKeyScreen from './screens/VaultKeyScreen';
@@ -36,12 +36,12 @@ const TabNavigator = createBottomTabNavigator(
 				const { routeName } = navigation.state;
 				let iconName;
 				if (routeName === 'CredentialsTab') {
-					iconName = Icons.key;
+					iconName = 'key';
 				} else if (routeName === 'OptionsTab') {
-					iconName = Icons.cogs;
+					iconName = 'cogs';
 				}
 
-				return <Text style={{color: tintColor, fontSize: 24}}><FontAwesome>{iconName}</FontAwesome></Text>;
+				return <Text style={{color: tintColor, fontSize: 24}}><FontAwesome name={iconName}/></Text>;
 			}
 		}),
 		tabBarOptions: {

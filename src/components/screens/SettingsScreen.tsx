@@ -1,5 +1,5 @@
 import React from 'react';
-import FontAwesome, { Icons } from 'react-native-fontawesome';
+import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import {ScrollView, Text} from 'react-native';
 import {StyledRootView} from '../StyledComponents';
 import {inject, observer} from 'mobx-react/native';
@@ -30,7 +30,7 @@ export default class SettingsScreen extends React.Component<ISettingsScreenProps
 			backgroundColor: DefaultColors.blue
 		},
 		headerTintColor: DefaultColors.white,
-		tabBarIcon: ({tintColor}) => ((<Text style={{color: tintColor, fontSize: 24}}><FontAwesome>{Icons.cogs}</FontAwesome></Text>))
+		tabBarIcon: ({tintColor}) => ((<Text style={{color: tintColor, fontSize: 24}}><FontAwesome name="cogs"/></Text>))
 	};
 
 	render() {

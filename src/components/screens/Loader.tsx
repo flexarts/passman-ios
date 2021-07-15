@@ -1,5 +1,6 @@
 import React from 'react';
-import {Animated, Image, MaskedViewIOS, View, StyleSheet, StatusBar} from 'react-native';
+import {Animated, Image, View, StyleSheet, StatusBar} from 'react-native';
+import MaskedView from '@react-native-community/masked-view';
 import DefaultColors from '../DefaultColors';
 import {CenteredView} from '../StyledComponents';
 
@@ -112,7 +113,7 @@ export class Loader extends React.Component<ILoaderProps, ILoaderState> {
 				<View style={styles.fullScreen}>
 					<StatusBar animated={true} hidden={!this.state.animationDone} />
 					{fullScreenBackgroundLayer}
-					<MaskedViewIOS
+					<MaskedView
 						style={{ flex: 1}}
 						maskElement={
 							<View style={styles.centeredFullScreen}>
@@ -127,7 +128,7 @@ export class Loader extends React.Component<ILoaderProps, ILoaderState> {
 						<Animated.View style={[opacityClearToVisible, appScale, { flex: 1 }]}>
 							{this.props.children}
 						</Animated.View>
-					</MaskedViewIOS>
+					</MaskedView>
 				</View>
 		);
 		}

@@ -3,6 +3,12 @@ package com.passman;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;
+import org.reactnative.maskedview.RNCMaskedViewPackage;
+import com.oblador.vectoricons.VectorIconsPackage;
+import com.bitgo.randombytes.RandomBytesPackage;
+import com.rnfingerprint.FingerprintAuthPackage;
+import com.reactlibrary.securekeystore.RNSecureKeyStorePackage;
 import com.rnfingerprint.FingerprintAuthPackage;
 import com.reactlibrary.securekeystore.RNSecureKeyStorePackage;
 import com.facebook.react.ReactNativeHost;
@@ -25,6 +31,12 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+            new AsyncStoragePackage(),
+            new RNCMaskedViewPackage(),
+            new VectorIconsPackage(),
+            new RandomBytesPackage(),
+            new FingerprintAuthPackage(),
+            new RNSecureKeyStorePackage(),
             new FingerprintAuthPackage(),
             new RNSecureKeyStorePackage()
       );

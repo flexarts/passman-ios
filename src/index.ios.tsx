@@ -1,3 +1,4 @@
+import './shim.js';
 import {Provider} from 'mobx-react';
 import VaultStore from './components/stores/VaultStore';
 import * as React from 'react';

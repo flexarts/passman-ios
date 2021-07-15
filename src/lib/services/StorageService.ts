@@ -1,6 +1,6 @@
 import RNSecureKeyStore from 'react-native-secure-key-store';
 import {IConnection, ISettings} from '../Interfaces';
-import {AsyncStorage} from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 export default class StorageService {
 

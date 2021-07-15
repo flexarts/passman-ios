@@ -1,5 +1,5 @@
 import React from 'react';
-import FontAwesome, { Icons } from 'react-native-fontawesome';
+import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import {
 	Text,
 	StatusBar,
@@ -47,7 +47,7 @@ export default class CredentialsScreen extends React.Component<ICredentialsScree
 				backgroundColor: DefaultColors.blue
 			},
 			headerTintColor: DefaultColors.white,
-			tabBarIcon: ({tintColor}) => ((<Text style={{color: tintColor, fontSize: 24}}><FontAwesome>{Icons.key}</FontAwesome></Text>)),
+			tabBarIcon: ({tintColor}) => ((<Text style={{color: tintColor, fontSize: 24}}><FontAwesome name="key"/></Text>)),
 			headerLeft: (
 
 				<TouchableHighlight underlayColor={'transparent'} onPress={params.toggleVaultComponent}>
@@ -56,7 +56,7 @@ export default class CredentialsScreen extends React.Component<ICredentialsScree
 						padding: 10,
 						paddingLeft: 15,
 						fontSize: 16
-					}}><FontAwesome>{Icons.database}</FontAwesome></Text>
+					}}><FontAwesome name="database"/></Text>
 				</TouchableHighlight>
 			)
 

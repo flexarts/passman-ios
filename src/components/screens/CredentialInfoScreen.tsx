@@ -1,5 +1,5 @@
 import React from 'react';
-import FontAwesome, { Icons } from 'react-native-fontawesome';
+import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import {
 	Text,
 	StatusBar,
@@ -45,7 +45,7 @@ export default class CredentialInfoScreen extends React.Component<ICredentialInf
 		headerTintColor: DefaultColors.white,
 		tabBarLabel: 'Credentials',
 		tabBarIcon: ({tintColor}) => ((
-			<Text style={{color: tintColor, fontSize: 24}}><FontAwesome>{Icons.key}</FontAwesome></Text>)),
+			<Text style={{color: tintColor, fontSize: 24}}><FontAwesome name="key"/></Text>)),
 		headerLeft:
 			<TouchableHighlight underlayColor={'transparent'} onPress={() => navigation.goBack()}>
 				<Text style={{
@@ -53,7 +53,7 @@ export default class CredentialInfoScreen extends React.Component<ICredentialInf
 					padding: 0,
 					paddingLeft: 15,
 					fontSize: 35
-				}}><FontAwesome>{Icons.angleLeft}</FontAwesome></Text>
+				}}><FontAwesome name="angle-left"/></Text>
 			</TouchableHighlight>
 
 		};
@@ -75,8 +75,12 @@ export default class CredentialInfoScreen extends React.Component<ICredentialInf
 	}
 
 	updateOTP(otpSecret: string) {
-		const otp = TOTP.getOTP(otpSecret);
-		this.setState({otp: otp});
+		try {
+			const otp = TOTP.getOTP(otpSecret);
+			this.setState({otp: otp});
+		} catch (error) {
+			const otp = null;
+		}
 	}
 
 	calculateRemainingOTPTime(): number {

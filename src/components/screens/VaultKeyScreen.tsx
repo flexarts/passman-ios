@@ -1,6 +1,6 @@
 import React from 'react';
 import {Alert, Text} from 'react-native';
-import FontAwesome, { Icons } from 'react-native-fontawesome';
+import FontAwesome from 'react-native-vector-icons/FontAwesome';
 import {inject, observer} from 'mobx-react/native';
 import {INavigationScreenProps} from '../../lib/Interfaces';
 import VaultStore from '../stores/VaultStore';
@@ -26,7 +26,7 @@ export default class VaultKeyScreen extends React.Component<IVaultKeyScreenProps
 	static navigationOptions = {
 		title: 'Key',
 		tabBarLabel: 'Credentials',
-		tabBarIcon: ({tintColor}) => ((<Text style={{color: tintColor, fontSize: 24}}><FontAwesome>{Icons.key}</FontAwesome></Text>))};
+		tabBarIcon: ({tintColor}) => ((<Text style={{color: tintColor, fontSize: 24}}><FontAwesome name="key"/></Text>))};
 
 	async onClose() {
 		if (await this.props.vaultStore.saveVaultKey()) this.props.onClose();
